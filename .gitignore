@@ -1,0 +1,254 @@
+
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.pdb
+app.manifest
+bin/Debug/LimitedBudgetMonojam.1.0.0.nupkg
+bin/Debug/netcoreapp3.1/Content/bg.xnb
+bin/Debug/netcoreapp3.1/Content/button.xnb
+bin/Debug/netcoreapp3.1/Content/buttonFont.xnb
+bin/Debug/netcoreapp3.1/Content/Editor/death.xnb
+bin/Debug/netcoreapp3.1/Content/Editor/goal.xnb
+bin/Debug/netcoreapp3.1/Content/Editor/spawn.xnb
+bin/Debug/netcoreapp3.1/Content/Editor/wall.xnb
+bin/Debug/netcoreapp3.1/Content/GameObjects/ball.xnb
+bin/Debug/netcoreapp3.1/Content/GameObjects/box.xnb
+bin/Debug/netcoreapp3.1/Content/GameObjects/mouse.xnb
+bin/Debug/netcoreapp3.1/Content/GameObjects/rect.xnb
+bin/Debug/netcoreapp3.1/Content/GameObjects/wall.xnb
+bin/Debug/netcoreapp3.1/Content/hit.xnb
+bin/Debug/netcoreapp3.1/Content/test.xnb
+bin/Debug/netcoreapp3.1/Content/title.xnb
+bin/Debug/netcoreapp3.1/Content/UI/button.xnb
+bin/Debug/netcoreapp3.1/Content/UI/buttonFont.xnb
+bin/Debug/netcoreapp3.1/Content/UI/msg.xnb
+bin/Debug/netcoreapp3.1/Content/wall.xnb
+bin/Debug/netcoreapp3.1/Levels/1
+bin/Debug/netcoreapp3.1/Levels/10
+bin/Debug/netcoreapp3.1/Levels/11
+bin/Debug/netcoreapp3.1/Levels/12
+bin/Debug/netcoreapp3.1/Levels/2
+bin/Debug/netcoreapp3.1/Levels/3
+bin/Debug/netcoreapp3.1/Levels/4
+bin/Debug/netcoreapp3.1/Levels/5
+bin/Debug/netcoreapp3.1/Levels/6
+bin/Debug/netcoreapp3.1/Levels/7
+bin/Debug/netcoreapp3.1/Levels/8
+bin/Debug/netcoreapp3.1/Levels/9
+bin/Debug/netcoreapp3.1/Levels/toy
+bin/Debug/netcoreapp3.1/LimitedBudgetMonojam.deps.json
+bin/Debug/netcoreapp3.1/LimitedBudgetMonojam.dll
+bin/Debug/netcoreapp3.1/LimitedBudgetMonojam.exe
+bin/Debug/netcoreapp3.1/LimitedBudgetMonojam.pdb
+bin/Debug/netcoreapp3.1/LimitedBudgetMonojam.runtimeconfig.dev.json
+bin/Debug/netcoreapp3.1/LimitedBudgetMonojam.runtimeconfig.json
+bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+bin/Look After The Pennies.zip
+bin/Look After The Pennies/Content/bg.xnb
+bin/Look After The Pennies/Content/button.xnb
+bin/Look After The Pennies/Content/buttonFont.xnb
+bin/Look After The Pennies/Content/Editor/death.xnb
+bin/Look After The Pennies/Content/Editor/goal.xnb
+bin/Look After The Pennies/Content/Editor/spawn.xnb
+bin/Look After The Pennies/Content/Editor/wall.xnb
+bin/Look After The Pennies/Content/GameObjects/ball.xnb
+bin/Look After The Pennies/Content/GameObjects/box.xnb
+bin/Look After The Pennies/Content/GameObjects/mouse.xnb
+bin/Look After The Pennies/Content/GameObjects/rect.xnb
+bin/Look After The Pennies/Content/GameObjects/wall.xnb
+bin/Look After The Pennies/Content/hit.xnb
+bin/Look After The Pennies/Content/test.xnb
+bin/Look After The Pennies/Content/title.xnb
+bin/Look After The Pennies/Content/UI/button.xnb
+bin/Look After The Pennies/Content/UI/buttonFont.xnb
+bin/Look After The Pennies/Content/UI/msg.xnb
+bin/Look After The Pennies/Content/wall.xnb
+bin/Look After The Pennies/Levels/1
+bin/Look After The Pennies/Levels/10
+bin/Look After The Pennies/Levels/11
+bin/Look After The Pennies/Levels/12
+bin/Look After The Pennies/Levels/2
+bin/Look After The Pennies/Levels/3
+bin/Look After The Pennies/Levels/4
+bin/Look After The Pennies/Levels/5
+bin/Look After The Pennies/Levels/6
+bin/Look After The Pennies/Levels/7
+bin/Look After The Pennies/Levels/8
+bin/Look After The Pennies/Levels/9
+bin/Look After The Pennies/Levels/toy
+bin/Look After The Pennies/LimitedBudgetMonojam.deps.json
+bin/Look After The Pennies/LimitedBudgetMonojam.dll
+bin/Look After The Pennies/LimitedBudgetMonojam.pdb
+bin/Look After The Pennies/LimitedBudgetMonojam.runtimeconfig.dev.json
+bin/Look After The Pennies/LimitedBudgetMonojam.runtimeconfig.json
+bin/Look After The Pennies/Look After The Pennies.exe
+bin/Look After The Pennies/MonoGame.Framework.dll
+bin/Look After The Pennies/runtimes/linux-x64/native/libopenal.so.1
+bin/Look After The Pennies/runtimes/linux-x64/native/libSDL2-2.0.so.0
+bin/Look After The Pennies/runtimes/osx/native/libopenal.1.dylib
+bin/Look After The Pennies/runtimes/osx/native/libSDL2-2.0.0.dylib
+bin/Look After The Pennies/runtimes/win-x64/native/SDL2.dll
+bin/Look After The Pennies/runtimes/win-x64/native/soft_oal.dll
+bin/Look After The Pennies/runtimes/win-x86/native/SDL2.dll
+bin/Look After The Pennies/runtimes/win-x86/native/soft_oal.dll
+bin/Look After The Pennies/Tutorial.txt
+bin/Release/netcoreapp3.1/Content/bg.xnb
+bin/Release/netcoreapp3.1/Content/button.xnb
+bin/Release/netcoreapp3.1/Content/buttonFont.xnb
+bin/Release/netcoreapp3.1/Content/Editor/death.xnb
+bin/Release/netcoreapp3.1/Content/Editor/goal.xnb
+bin/Release/netcoreapp3.1/Content/Editor/spawn.xnb
+bin/Release/netcoreapp3.1/Content/Editor/wall.xnb
+bin/Release/netcoreapp3.1/Content/GameObjects/ball.xnb
+bin/Release/netcoreapp3.1/Content/GameObjects/box.xnb
+bin/Release/netcoreapp3.1/Content/GameObjects/mouse.xnb
+bin/Release/netcoreapp3.1/Content/GameObjects/rect.xnb
+bin/Release/netcoreapp3.1/Content/GameObjects/wall.xnb
+bin/Release/netcoreapp3.1/Content/hit.xnb
+bin/Release/netcoreapp3.1/Content/test.xnb
+bin/Release/netcoreapp3.1/Content/title.xnb
+bin/Release/netcoreapp3.1/Content/UI/button.xnb
+bin/Release/netcoreapp3.1/Content/UI/buttonFont.xnb
+bin/Release/netcoreapp3.1/Content/UI/msg.xnb
+bin/Release/netcoreapp3.1/Content/wall.xnb
+bin/Release/netcoreapp3.1/Levels/1
+bin/Release/netcoreapp3.1/Levels/10
+bin/Release/netcoreapp3.1/Levels/11
+bin/Release/netcoreapp3.1/Levels/12
+bin/Release/netcoreapp3.1/Levels/2
+bin/Release/netcoreapp3.1/Levels/3
+bin/Release/netcoreapp3.1/Levels/4
+bin/Release/netcoreapp3.1/Levels/5
+bin/Release/netcoreapp3.1/Levels/6
+bin/Release/netcoreapp3.1/Levels/7
+bin/Release/netcoreapp3.1/Levels/8
+bin/Release/netcoreapp3.1/Levels/9
+bin/Release/netcoreapp3.1/Levels/toy
+bin/Release/netcoreapp3.1/LimitedBudgetMonojam.deps.json
+bin/Release/netcoreapp3.1/LimitedBudgetMonojam.dll
+bin/Release/netcoreapp3.1/LimitedBudgetMonojam.exe
+bin/Release/netcoreapp3.1/LimitedBudgetMonojam.pdb
+bin/Release/netcoreapp3.1/LimitedBudgetMonojam.runtimeconfig.dev.json
+bin/Release/netcoreapp3.1/LimitedBudgetMonojam.runtimeconfig.json
+bin/Release/netcoreapp3.1/Look After The Pennies.exe
+bin/Release/netcoreapp3.1/MonoGame.Framework.dll
+bin/Release/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+bin/Release/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+bin/Release/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+bin/Release/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+bin/Release/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+bin/Release/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+bin/Release/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+bin/Release/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+bin/Release/netcoreapp3.1/Tutorial.txt
+Content/bin/DesktopGL/bg.xnb
+Content/bin/DesktopGL/Content/bg.xnb
+Content/bin/DesktopGL/Content/button.xnb
+Content/bin/DesktopGL/Content/buttonFont.xnb
+Content/bin/DesktopGL/Content/Editor/death.xnb
+Content/bin/DesktopGL/Content/Editor/goal.xnb
+Content/bin/DesktopGL/Content/Editor/spawn.xnb
+Content/bin/DesktopGL/Content/Editor/wall.xnb
+Content/bin/DesktopGL/Content/GameObjects/ball.xnb
+Content/bin/DesktopGL/Content/GameObjects/box.xnb
+Content/bin/DesktopGL/Content/GameObjects/mouse.xnb
+Content/bin/DesktopGL/Content/GameObjects/rect.xnb
+Content/bin/DesktopGL/Content/GameObjects/wall.xnb
+Content/bin/DesktopGL/Content/hit.xnb
+Content/bin/DesktopGL/Content/test.xnb
+Content/bin/DesktopGL/Content/title.xnb
+Content/bin/DesktopGL/Content/UI/button.xnb
+Content/bin/DesktopGL/Content/UI/buttonFont.xnb
+Content/bin/DesktopGL/Content/UI/msg.xnb
+Content/bin/DesktopGL/Content/wall.xnb
+Content/bin/DesktopGL/Editor/death.xnb
+Content/bin/DesktopGL/Editor/goal.xnb
+Content/bin/DesktopGL/Editor/spawn.xnb
+Content/bin/DesktopGL/Editor/wall.xnb
+Content/bin/DesktopGL/GameObjects/ball.xnb
+Content/bin/DesktopGL/GameObjects/box.xnb
+Content/bin/DesktopGL/GameObjects/mouse.xnb
+Content/bin/DesktopGL/GameObjects/rect.xnb
+Content/bin/DesktopGL/GameObjects/wall.xnb
+Content/bin/DesktopGL/hit.xnb
+Content/bin/DesktopGL/title.xnb
+Content/bin/DesktopGL/UI/button.xnb
+Content/bin/DesktopGL/UI/buttonFont.xnb
+Content/bin/DesktopGL/UI/msg.xnb
+Content/Content.mgcb
+Content/Editor/wall.png
+Content/GameObjects/maptest.png
+Content/obj/DesktopGL/.mgcontent
+Content/obj/DesktopGL/.mgstats
+Content/obj/DesktopGL/bg.mgcontent
+Content/obj/DesktopGL/Content/.mgcontent
+Content/obj/DesktopGL/Content/.mgstats
+Content/obj/DesktopGL/Content/bg.mgcontent
+Content/obj/DesktopGL/Content/button.mgcontent
+Content/obj/DesktopGL/Content/buttonFont.mgcontent
+Content/obj/DesktopGL/Content/Editor/death.mgcontent
+Content/obj/DesktopGL/Content/Editor/goal.mgcontent
+Content/obj/DesktopGL/Content/Editor/spawn.mgcontent
+Content/obj/DesktopGL/Content/Editor/wall.mgcontent
+Content/obj/DesktopGL/Content/GameObjects/ball.mgcontent
+Content/obj/DesktopGL/Content/GameObjects/box.mgcontent
+Content/obj/DesktopGL/Content/GameObjects/mouse.mgcontent
+Content/obj/DesktopGL/Content/GameObjects/rect.mgcontent
+Content/obj/DesktopGL/Content/GameObjects/wall.mgcontent
+Content/obj/DesktopGL/Content/hit.mgcontent
+Content/obj/DesktopGL/Content/test.mgcontent
+Content/obj/DesktopGL/Content/title.mgcontent
+Content/obj/DesktopGL/Content/UI/button.mgcontent
+Content/obj/DesktopGL/Content/UI/buttonFont.mgcontent
+Content/obj/DesktopGL/Content/UI/msg.mgcontent
+Content/obj/DesktopGL/Content/wall.mgcontent
+Content/obj/DesktopGL/Editor/death.mgcontent
+Content/obj/DesktopGL/Editor/goal.mgcontent
+Content/obj/DesktopGL/Editor/spawn.mgcontent
+Content/obj/DesktopGL/Editor/wall.mgcontent
+Content/obj/DesktopGL/GameObjects/ball.mgcontent
+Content/obj/DesktopGL/GameObjects/box.mgcontent
+Content/obj/DesktopGL/GameObjects/mouse.mgcontent
+Content/obj/DesktopGL/GameObjects/rect.mgcontent
+Content/obj/DesktopGL/GameObjects/wall.mgcontent
+Content/obj/DesktopGL/hit.mgcontent
+Content/obj/DesktopGL/title.mgcontent
+Content/obj/DesktopGL/UI/button.mgcontent
+Content/obj/DesktopGL/UI/buttonFont.mgcontent
+Content/obj/DesktopGL/UI/msg.mgcontent
+LimitedBudgetMonojam.csproj
+obj/Debug/LimitedBudgetMonojam.1.0.0.nuspec
+obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+obj/Debug/netcoreapp3.1/apphost.exe
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.assets.cache
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.csproj.AssemblyReference.cache
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.csproj.CopyComplete
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.dll
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.genruntimeconfig.cache
+obj/Debug/netcoreapp3.1/LimitedBudgetMonojam.pdb
+obj/LimitedBudgetMonojam.csproj.nuget.dgspec.json
+obj/LimitedBudgetMonojam.csproj.nuget.g.props
+obj/LimitedBudgetMonojam.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+obj/Release/netcoreapp3.1/apphost.exe
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.AssemblyInfo.cs
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.AssemblyInfoInputs.cache
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.assets.cache
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.csproj.AssemblyReference.cache
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.csproj.CopyComplete
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.csproj.CoreCompileInputs.cache
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.csproj.FileListAbsolute.txt
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.dll
+obj/Release/netcoreapp3.1/LimitedBudgetMonojam.genruntimeconfig.cache
